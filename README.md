@@ -1,6 +1,6 @@
 # DaughterOfAMother
 
-Freelance project using JavaScript, CSS, and HTML to override Squarespace code to make an interactive collage of the authors written works along with design of the said written works. Added hover interaction to area tags through mapper.js - try it out live on the website to see how it works!
+Freelance project using JavaScript, CSS, and HTML to override Squarespace code to make an interactive collage of the authors written works along with design of the said written works. Added hover interaction to area tags through mapper.js - try it out live on the website to see how it works! Link below.
 
 Here is the collage:
 
